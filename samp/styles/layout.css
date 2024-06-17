@@ -1,0 +1,30 @@
+header h4 {
+    background-color: grey;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+main {
+    grid-template-columns: 1fr 1fr;
+}
+
+.msg-1 {
+    background-color: gray;
+}
+
+.msg-2 {
+    background-color: white;
+}
+
+footer {
+    background-color: black;
+    padding: 45px;
+}
+
+footer h4 {
+    color: white;
+    text-align: center;
+}
