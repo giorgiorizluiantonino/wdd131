@@ -12,7 +12,7 @@ nav ul {
     background-color: grey;
 
 
-    /* Adjust the spacing between the items as needed */
+
 }
 
 nav li {
@@ -36,7 +36,7 @@ nav a {
 
 nav a:hover {
     color: red;
-    /* Change the hover color as needed */
+
 }
 
 
@@ -168,16 +168,16 @@ footer {
 
 #name-country {
     padding-top: 20px;
-    padding-bottom: 0px;
     text-align: center;
     color: white;
     font-size: 25px;
+    margin-bottom: 0px;
 }
 
 
 #last-modified {
     text-align: center;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 0px;
 }
