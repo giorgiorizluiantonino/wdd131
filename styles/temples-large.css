@@ -1,0 +1,20 @@
+@media (min-width: 600px) {
+    nav {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: row;
+    }
+
+    nav li {
+        margin: 0 1rem;
+    }
+
+    .temple-pictures {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+    }
+}
